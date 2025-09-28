@@ -6,7 +6,7 @@
 
 body{
     font-family: 'outfit';
-    background: linear-gradient( #ffdad5, #fff7f9);
+    background: linear-gradient(#ffa886, #9df9df);
 }
 
 .container{
@@ -93,6 +93,7 @@ body{
         display: none;
     }
 }
+
 
 
 
